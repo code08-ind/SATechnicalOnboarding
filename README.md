@@ -4,7 +4,7 @@
 Technical Onboarding Of MLSA Repository.
 
 ### What Is Tech Stack Used?
-It Makes Use Of HTML, CSS.
+It Makes Use Of HTML, CSS With Application Of Git.
 
 ### Outcomes Of Project:
 Here In See The Project Is An App That Is HTML, CSS Web Application Which Focuses On GitHub Actions.
